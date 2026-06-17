@@ -1,0 +1,10 @@
+{
+  "estrategia": "fused + logistic",
+  "n_seeds": 10,
+  "threshold_mean": 0.5601838279341884,
+  "threshold_std": 0.08918258996370079,
+  "f1_optimal_mean": 0.5936865823352637,
+  "f1_optimal_std": 0.018194680252325807,
+  "auc_mean": 0.8944375005963229,
+  "auc_std": 0.005977948913707691
+}

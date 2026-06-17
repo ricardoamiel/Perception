@@ -1,0 +1,17 @@
+*.npy
+*.pt
+*.pkl
+
+/cache
+/gt
+
+
+/image-extraction
+/graph/cache
+/graph/__pycache__
+
+/graph/checkpoints/*.pt
+
+/graph/final_classifier/*.pkl
+/graph/final_classifier/*.pkl
+/graph/graph_output
