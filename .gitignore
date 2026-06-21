@@ -6,7 +6,13 @@
 /gt
 
 
-/image-extraction
+/image-extraction/distritos
+/image-extraction/Inseguros-Barranco-GGZ-2016
+/image-extraction/Inseguros-La_Victoria-GGZ-2016
+/image-extraction/.env
+/image-extraction/Inseguros
+/image-extraction/Inseguros-Barranco
+/image-extraction/controlInseguros.png
 /graph/cache
 /graph/__pycache__
 
@@ -15,3 +21,7 @@
 /graph/final_classifier/*.pkl
 /graph/final_classifier/*.pkl
 /graph/graph_output
+
+/scraper
+/scraper/__pycache__
+/scraper/cache
